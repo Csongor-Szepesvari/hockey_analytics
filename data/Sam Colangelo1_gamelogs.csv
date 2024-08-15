@@ -1,0 +1,4 @@
+,date,age,team,opposition,game_result,all_goals,all_assists,all_points,plus_minus,pims,evg,ppg,shg,gwg,eva,ppa,sha,shots,shot_pct,num_shifts,toi,hits,FO_win,FO_Loss,FO_pct
+0,2024-04-12,22-108,ANA,CGY,L,1,0,1,1,0,1,0,0,0,0,0,0,2,50.0,16,12:47,0,0,0,
+1,2024-04-13,22-109,ANA,LAK,L,0,0,0,-1,2,0,0,0,0,0,0,0,1,0.0,12,8:42,2,0,0,
+2,2024-04-18,22-114,ANA,VEG,W,0,0,0,0,0,0,0,0,0,0,0,0,4,0.0,17,16:11,1,0,0,

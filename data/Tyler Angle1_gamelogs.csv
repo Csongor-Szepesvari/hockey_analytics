@@ -1,0 +1,5 @@
+,date,age,team,opposition,game_result,all_goals,all_assists,all_points,plus_minus,pims,evg,ppg,shg,gwg,eva,ppa,sha,shots,shot_pct,num_shifts,toi,hits,FO_win,FO_Loss,FO_pct
+0,2023-04-13,22-195,CBJ,PIT,W,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,13,10:49,1,3,3,50.0
+1,2023-04-14,22-196,CBJ,BUF,L,1,0,1,-2,0,1,0,0,0,0,0,0,4,25.0,18,12:08,1,5,7,41.7
+2,2024-03-26,23-178,CBJ,ARI,L,0,0,0,-1,0,0,0,0,0,0,0,0,0,,15,9:38,2,2,4,33.3
+3,2024-03-28,23-180,CBJ,PIT,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,9,7:02,3,1,2,33.3
