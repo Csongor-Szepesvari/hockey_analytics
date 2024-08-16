@@ -1,5 +1,0 @@
-,date,age,team,opposition,game_result,all_goals,all_assists,all_points,plus_minus,pims,evg,ppg,shg,gwg,eva,ppa,sha,shots,shot_pct,num_shifts,toi,hits,FO_win,FO_Loss,FO_pct
-0,2023-10-28,25-023,OTT,PIT,W,0,0,0,1,0,0,0,0,0,0,0,0,0,,12,8:24,0,0,0,
-1,2023-11-02,25-028,OTT,LAK,L,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,11,6:55,2,0,0,
-2,2023-11-04,25-030,OTT,TBL,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,11,6:52,2,0,0,
-3,2023-11-08,25-034,OTT,TOR,W,0,0,0,1,0,0,0,0,0,0,0,0,1,0.0,11,5:50,0,0,0,

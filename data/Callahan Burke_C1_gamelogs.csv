@@ -1,0 +1,4 @@
+,date,age,team,opposition,game_result,all_goals,all_assists,all_points,plus_minus,pims,evg,ppg,shg,gwg,eva,ppa,sha,shots,shot_pct,num_shifts,toi,hits,FO_win,FO_Loss,FO_pct
+0,2022-12-07,25-263,COL,BOS,L,0,0,0,-1,0,0,0,0,0,0,0,0,1,0.0,17,10:44,0,2,3,40.0
+1,2022-12-09,25-265,COL,NYR,L-SO,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,9,6:53,1,0,1,0.0
+2,2023-10-21,26-216,CAR,COL,L,0,0,0,0,0,0,0,0,0,0,0,0,0,,13,7:06,3,0,0,
